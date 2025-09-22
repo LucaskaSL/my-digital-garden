@@ -2,4 +2,11 @@
 {"dg-publish":true,"permalink":"/mej/ser-junior/coordenadorias/"}
 ---
 
-aaaa
+- PRESEX
+- VPNEG
+- VPGG
+- EXPANSÃO
+- CE
+- DDR
+
+Além dum conselho próprio
