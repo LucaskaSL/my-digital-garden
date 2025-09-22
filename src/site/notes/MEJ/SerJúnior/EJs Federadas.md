@@ -113,7 +113,7 @@ Data de Federação: 23 de jun. de 2022
 
 Mascotes:
 
-![Logo Inova+.png|300](/img/user/Imagens/Logos%20das%20EJs%20da%20SERJ%C3%9ANIOR/Logo%20Inova+.png)
+![Logo Inova.png|300](/img/user/Imagens/Logos%20das%20EJs%20da%20SERJ%C3%9ANIOR/Logo%20Inova.png)
 
 Nome: INOVA+ CONTABILIDADE
 
