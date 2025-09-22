@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mej/brasil-junior/"}
 ---
 
-A Brasil Júnior é a instância que representa esse movimento no Brasil, sendo regulamentado pela Lei 13.267/2016, com acesso direto em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13267.htm. O movimento no país é também apoiado por diversos parceiros que acreditam na missão.
+A Brasil Júnior é a instância que representa esse movimento ([[MEJ/O que é o MEJ\|O que é o MEJ]]) no Brasil, sendo regulamentado pela Lei 13.267/2016, com acesso direto em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13267.htm. O movimento no país é também apoiado por diversos parceiros que acreditam na missão.
 
 Possuindo um vultoso ímpeto de deixar sua marca no mundo, os jovens que participam desse movimento são agentes que transformam ideias em realidade e buscam formar lideranças cada vez mais competentes que fomentem a cultura empreendedora no país. Diferenças que os tornam únicos e os conectam com um único e pujante propósito, um convívio plural e diário com uma missão em comum, os jovens acabam também por entrar numa jornada de autoconhecimento ao contemplar a sua grandeza e singularidade, engajando em times e buscando evoluir a cada projeto e atividade. 
 
