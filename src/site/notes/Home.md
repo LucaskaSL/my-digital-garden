@@ -34,3 +34,4 @@ Saiba como a federação sergipana conecta, desenvolve e fortalece os estudantes
 ### 📖 A linguagem do MEJ
 
 Aprenda os termos, siglas e conceitos que fazem parte do dia a dia de uma Empresa Júnior.
+👉 [[MEJ/Conceitos e Termos numa EJ/Comece Aqui\|Comece Aqui]]
