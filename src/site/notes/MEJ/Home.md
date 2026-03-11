@@ -6,8 +6,6 @@
 
 ## Um movimento que transforma 🌱
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
 O que acontece quando milhares de jovens decidem colocar em prática tudo o que aprendem na universidade?  
 Nasce um movimento capaz de unir propósito, inovação e impacto real na sociedade.
 
@@ -33,7 +31,7 @@ Conheça a confederação que une e potencializa o impacto das Empresas Juniores
 Saiba como a federação sergipana conecta, desenvolve e fortalece os estudantes do estado.
 👉 [[MEJ/MEJ/SerJúnior/História SerJúnior\|História SerJúnior]]
 
-### A linguagem do MEJ
+### A Linguagem do MEJ
 
 Aprenda os termos, siglas e conceitos que fazem parte do dia a dia de uma Empresa Júnior.
 👉 [[MEJ/MEJ/Conceitos e Termos numa EJ/Comece Aqui\|Comece Aqui]]
